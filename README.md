@@ -6,7 +6,7 @@ was bread out the annoyance of wrapping the same api calls and grabbing the
 same data every time I wanted to write a fun script to do something.
 
 Dependencies:
-- requests
+* requests
 =======
 pynikani
 ========
