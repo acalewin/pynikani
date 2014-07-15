@@ -1,3 +1,4 @@
+
 # PYNIKANI
 
 The pynikani module is a simple python wrapper for the [wanikani](http://www.wanikani.com) web api.  It
@@ -6,3 +7,8 @@ same data every time I wanted to write a fun script to do something.
 
 Dependencies:
 - requests
+=======
+pynikani
+========
+
+Simple python wrapper for the wanikani API
