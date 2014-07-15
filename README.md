@@ -5,10 +5,4 @@ The pynikani module is a simple python wrapper for the [wanikani](http://www.wan
 was bread out the annoyance of wrapping the same api calls and grabbing the
 same data every time I wanted to write a fun script to do something.
 
-Dependencies:
-* requests
-=======
-pynikani
-========
-
-Simple python wrapper for the wanikani API
+Dependencies: requests
